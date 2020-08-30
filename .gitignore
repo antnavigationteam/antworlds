@@ -1,0 +1,7 @@
+.idea/
+*.npz
+*.ply
+*.pyc
+*.csv
+*.mat
+data/*

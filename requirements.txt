@@ -1,0 +1,9 @@
+PyOpenGL
+PyQt5
+matplotlib
+numpy
+scipy
+pygame
+imageio
+plyfile
+scikit-image
